@@ -1,4 +1,2 @@
-dopts
-=====
-
-Thumbnail Scroller (with PHP Admin)
+Thumbnail Scroller with PHP Admin
+======
